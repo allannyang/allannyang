@@ -1,4 +1,4 @@
-The name's Allan, and I'm currently in my second year of university, studying Computer Science and Business Administration. Nice to meet you!
+The name's Allan, and I'm currently studying Computer Science at uWaterloo and Business Administration at Wilfrid Laurier University. Thanks for stopping by!
 
 <!---
 allannyang/allannyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
