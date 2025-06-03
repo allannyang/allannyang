@@ -34,7 +34,7 @@ Welcome to my GitHub! I'm a **Computer Science** student at the University of Wa
 
 # 💡 Highlights
 
-- 🚀 Shipped a full-scale online multiplayer game with **56,000+ monthly users** and **$2,000+ revenue in the first month**
+- 🚀 Helped ship a full-scale online multiplayer game with **56,000+ monthly users** and **$2,000+ revenue in the first month**
 - 🧠 Refined and annotated **5,000+ entries** for large language model pipelines at various companies
 - 🔐 Engineered a **secure, encapsulated trading system** and persistent backend for 100K+ users
 - ⚡ Boosted gameplay **session time by 17%** via real-time UI/UX profiling and refactors
