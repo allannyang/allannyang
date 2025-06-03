@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Allan Yang
+# 👋 Hi, I'm Allan!
 
-Welcome to my GitHub! I'm a **Computer Science + Business** student at the University of Waterloo & Wilfrid Laurier University, with experience as a **Senior Data Quality Specialist @ Cohere** and building ambitious side projects like **Cellscaper**, a competitive 2D web game inspired by evolution, AI, and esports.
+Welcome to my GitHub! I'm a **Computer Science** student at the University of Waterloo and a "Business Administration** student at Wilfrid Laurier University, with experience as a **Senior Data Quality Specialist @ Cohere** currently building fun side projects like **Cellscaper**, a competitive 2D web game inspired by evolution, AI, and esports.
 
 ---
 
@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a **Computer Science + Business** student at the Unive
 ```yaml
 Languages:        TypeScript, Python, JavaScript, C, SQL
 Frameworks/Tools: React, Node.js, Express, MongoDB, Godot, Docker, Git, Bash
-Currently Learning: Kubernetes, Rust, Next.js
+Currently Learning: Rust
 <!---
 allannyang/allannyang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
