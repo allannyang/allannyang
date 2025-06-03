@@ -20,12 +20,13 @@ Welcome to my GitHub! I'm a **Computer Science** student at the University of Wa
 ## ✅ Completed Projects
 
 - 🎲 **Watopoly** - A Waterloo-themed Monopoly clone with original board, mechanics, and local multiplayer mode.
-  - Created from scratch with complete turn-based logic and in-game UI
-  - Tech: Java, Swing, MVC architecture
+  - Created from scratch with complete turn-based logic and in-game UI in a team of 3
+  - Tech: C++
 
-- 🚗 **PreOwnedPal** - A classified listings platform that uses semantic similarity and market history to surface undervalued used cars.
-  - Features scraping, NLP-based matching, price estimation models, and clean UI
-  - Tech: Python, Flask, scikit-learn, SQLite
+- 📬 **PreOwnedPal** – A smart email alert tool that tracks and surfaces undervalued listings across multiple platforms.
+  - Uses Selenium WebDriver and BeautifulSoup for custom scraping and keyword-based filtering
+  - Sends real-time email alerts for matches based on user-defined criteria
+  - Tech: Python, Selenium, BeautifulSoup
 
 - 🕹️ **ALPHAWAVER** - A solo-developed pixel RPG with a custom engine, featuring party-based combat and multiple gameplay modes.
   - Tech: Java, Swing
