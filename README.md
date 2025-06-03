@@ -44,7 +44,7 @@ Welcome to my GitHub! I'm a **Computer Science** student at the University of Wa
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/allanyang)
-- 🧠 [GitHub](https://github.com/allannyang)
+- 🌐 [Website](https://allanyang.com)
 
 ## 🛠️ My Toolbox
 
@@ -52,4 +52,3 @@ Welcome to my GitHub! I'm a **Computer Science** student at the University of Wa
 Languages:        TypeScript, Python, JavaScript, C, Java, SQL, Lua, ARMv8 Assembly
 Frameworks:       React, Node.js, Next.js, MongoDB, PyTorch, sentence-transformers
 Tools & Infra:    Docker, Git, Bash, Postman, Valgrind, AWS (EC2, S3), Figma, Jupyter, CI/CD
-Currently Learning: Rust
