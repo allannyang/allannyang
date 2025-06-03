@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Allan!
 
-Welcome to my GitHub! I'm a **Computer Science** student at the University of Waterloo and a **Business Administration** student at Wilfrid Laurier University, with experience as a **Senior Data Quality Specialist (Contractor) @ Cohere**, currently building fun side projects like **Cellscaper**, a competitive 2D roguelike web game inspired by evolution, procedural design, and RNG.
+Welcome to my GitHub! I'm a **Computer Science** student at the University of Waterloo and a **Business Administration** student at Wilfrid Laurier University, with experience as a **Senior Data Quality Specialist (Contract) @ Cohere**, currently building fun side projects like **Cellscaper**, a competitive 2D roguelike web game inspired by evolution, procedural design, and RNG.
 
 ---
 
