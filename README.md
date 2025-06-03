@@ -32,6 +32,11 @@ Welcome to my GitHub! I'm a **Computer Science** student at the University of Wa
 
 ---
 
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/allanyang)
+- 🧠 [GitHub](https://github.com/allannyang)
+
 ## 🛠️ My Toolbox
 
 ```yaml
