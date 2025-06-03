@@ -13,22 +13,22 @@ Welcome to my GitHub! I'm a **Computer Science** student at the University of Wa
   - Uses transformer-based embeddings, zero-shot classification, and time-decay scoring
   - Tech: Python, PyTorch, SQLite, PyQt6, sentence-transformers
 - 🔧 **DataOps Tooling** - Internal-use scripts and annotation pipelines for LLM QA and data integrity auditing.
-  - Highlights include multi-turn dialog QA, edge-case detection, and semantic scoring
+  - Highlights include multi-turn dialogue QA, edge-case detection, and semantic scoring
 
 ---
 
 ## ✅ Completed Projects
 
-- 🎲 **Watopoly** - A Waterloo-themed Monopoly clone with original board and mechanics!
+- 🎲 **Watopoly** - A Waterloo-themed Monopoly clone with original board and mechanics
   - Created from scratch with complete turn-based logic and in-game UI in a team of 3
   - Tech: C++
 
-- 📬 **PreOwnedPal** – A smart email alert tool that tracks and surfaces undervalued listings across multiple platforms.
+- 📬 **PreOwnedPal** – A smart email alert tool that tracks and surfaces undervalued listings across multiple platforms
   - Uses Selenium WebDriver and BeautifulSoup for custom scraping and keyword-based filtering
   - Sends real-time email alerts for matches based on user-defined criteria
   - Tech: Python, Selenium, BeautifulSoup
 
-- 🕹️ **ALPHAWAVER** - A solo-developed pixel RPG with a custom engine, featuring party-based combat and multiple gameplay modes.
+- 🕹️ **ALPHAWAVER** - A solo-developed pixel RPG with a custom engine, featuring party-based combat and multiple gameplay modes
   - Tech: Java, Swing
 
 ---
