@@ -19,7 +19,7 @@ Welcome to my GitHub! I'm a **Computer Science** student at the University of Wa
 
 ## ✅ Completed Projects
 
-- 🎲 **Watopoly** - A Waterloo-themed Monopoly clone with original board, mechanics, and local multiplayer mode.
+- 🎲 **Watopoly** - A Waterloo-themed Monopoly clone with original board and mechanics!
   - Created from scratch with complete turn-based logic and in-game UI in a team of 3
   - Tech: C++
 
