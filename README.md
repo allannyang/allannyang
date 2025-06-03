@@ -6,31 +6,40 @@ Welcome to my GitHub! I'm a **Computer Science** student at the University of Wa
 
 ## 🚀 What I'm Working On
 
-- 🧬 **Cellscaper** – A browser-based 2D evolution game with procedurally generated visuals and ELO-based matchmaking.
+- 🧬 **Cellscaper** - A browser-based 2D evolution game with procedurally generated visuals and ELO-based matchmaking.
   - Secure user auth, persistent save management, and a dynamic leaderboard system
   - Tech: React, Node.js, MongoDB, RESTful APIs, Next.js
-- 🧠 **ForgetMeNot Myosotis** – An AI-powered memory assistant that resurfaces lost tabs and forgotten links.
+- 🧠 **ForgetMeNot Myosotis** - An AI-powered memory assistant that resurfaces lost tabs and forgotten links.
   - Uses transformer-based embeddings, zero-shot classification, and time-decay scoring
   - Tech: Python, PyTorch, SQLite, PyQt6, sentence-transformers
-- 🔧 **DataOps Tooling** – Internal-use scripts and annotation pipelines for LLM QA and data integrity auditing.
+- 🔧 **DataOps Tooling** - Internal-use scripts and annotation pipelines for LLM QA and data integrity auditing.
   - Highlights include multi-turn dialog QA, edge-case detection, and semantic scoring
 
 ---
 
 ## ✅ Completed Projects
 
-- 🎲 **Watopoly** – A Waterloo-themed Monopoly clone with original board, mechanics, and local multiplayer mode.
+- 🎲 **Watopoly** - A Waterloo-themed Monopoly clone with original board, mechanics, and local multiplayer mode.
   - Created from scratch with complete turn-based logic and in-game UI
   - Tech: Java, Swing, MVC architecture
 
-- 🚗 **PreOwnedPal** – A classified listings platform that uses semantic similarity and market history to surface undervalued used cars.
+- 🚗 **PreOwnedPal** - A classified listings platform that uses semantic similarity and market history to surface undervalued used cars.
   - Features scraping, NLP-based matching, price estimation models, and clean UI
   - Tech: Python, Flask, scikit-learn, SQLite
 
-- 🕹️ **ALPHAWAVER** – A solo-developed pixel RPG with a custom engine, featuring party-based combat and multiple gameplay modes.
+- 🕹️ **ALPHAWAVER** - A solo-developed pixel RPG with a custom engine, featuring party-based combat and multiple gameplay modes.
   - Tech: Java, Swing
 
 ---
+
+# 💡 Highlights
+
+- 🚀 Shipped a full-scale online multiplayer game with **56,000+ monthly users** and **$2,000+ revenue in the first month**
+- 🧠 Refined and annotated **5,000+ entries** for large language model pipelines at various companies
+- 🔐 Engineered a **secure, encapsulated trading system** and persistent backend for 100K+ users
+- ⚡ Boosted gameplay **session time by 17%** via real-time UI/UX profiling and refactors
+- 🔎 Built a retrainable memory assistant with **semantic embeddings and zero-shot link classification**
+- 🎓 Still making it through university!
 
 ## 📫 Let's Connect
 
