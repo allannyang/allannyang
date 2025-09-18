@@ -1,7 +1,7 @@
 ## Hey, I'm [Allan](https://allanyang.com) ✨
 
-[![Safari](https://img.shields.io/badge/allanyang.com-000000?style=for-the-badge&logo=Safari&logoColor=white)](https://allanyang.com)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/allanyang)
+[![Safari](https://img.shields.io/badge/allanyang.com-000000?style=flat&logo=Safari&logoColor=white)](https://allanyang.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/allanyang)
 
 <!--
 **allannyang/allannyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
