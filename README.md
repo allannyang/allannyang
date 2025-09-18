@@ -5,7 +5,7 @@
 
 Thanks for visiting my profile! I’m currently a **Software Developer** at Wilfrid Laurier University’s **StartUp Lab**, pursuing a double degree in Computer Science at the **University of Waterloo** and Business Administration at **Wilfrid Laurier University**.
 
-![Profile views](https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat-square)
+![Profile views](https://komarev.com/ghpvc/?username=allannyang&label=Profile%20views&color=0e75b6&style=flat-square)
 
 <!--
 **allannyang/allannyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
