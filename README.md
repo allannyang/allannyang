@@ -32,7 +32,7 @@ Thanks for visiting my profile! I’m currently working as a **Software Develope
   <img alt="Bash" width="30px" style="margin-right:12px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 </p>
 
-#
+---
 
 ![Profile views](https://komarev.com/ghpvc/?username=allannyang&label=Profile%20views&color=0e75b6&style=flat)
 
