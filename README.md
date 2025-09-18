@@ -1,4 +1,4 @@
-## Hey, I'm [Allan](https://allanyang.com)! 👋
+## Hey, I'm [Allan](https://allanyang.com) |˶˙ᵕ˙ )ﾉﾞ
 
 <!--
 **allannyang/allannyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
