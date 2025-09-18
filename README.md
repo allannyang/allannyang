@@ -3,6 +3,7 @@
 [![Safari](https://img.shields.io/badge/allanyang.com-000000?style=flat&logo=Safari&logoColor=white)](https://allanyang.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/allanyang)
 
+Thanks for visiting my profile! I'm a student studying **Computer Science** at the **University of Waterloo** and **Business Administration** at **Wilfrid Laurier University**.
 <!--
 **allannyang/allannyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
