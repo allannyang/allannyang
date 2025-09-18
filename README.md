@@ -34,12 +34,13 @@ I’m currently working as a **Software Developer** at Wilfrid Laurier Universit
 
 #
 
-Thanks for visiting my profile! 
 ![Profile views](https://komarev.com/ghpvc/?username=allannyang&label=Profile%20views&color=0e75b6&style=flat)
 
 
 <!--
 **allannyang/allannyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Thanks for visiting my profile!
 
 Here are some ideas to get you started:
 
