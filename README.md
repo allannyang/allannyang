@@ -1,7 +1,7 @@
 ## Hey, I'm [Allan](https://allanyang.com) ✨
 
 [![Safari](https://img.shields.io/badge/allanyang.com-000000?style=flat&logo=Safari&logoColor=white)](https://allanyang.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/allanyang)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/allannyang)
 [![Stars](https://img.shields.io/github/stars/allannyang?affiliations=OWNER&style=flat&logo=github&label=Stars&labelColor=6e40c9&color=9b72cf)](https://github.com/allannyang?tab=repositories&sort=stargazers)
 
 I’m currently working as a **Software Developer** at Wilfrid Laurier University’s [**StartUp Lab**](https://students.wlu.ca/work-leadership-and-volunteering/entrepreneurship/startup-lab/index.html), alongside pursuing a double degree in Computer Science at the **University of Waterloo** and Business Administration at **Wilfrid Laurier University**!
